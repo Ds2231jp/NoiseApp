@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "935993686180",
+    "project_id": "noiseapp-vtc",
+    "storage_bucket": "noiseapp-vtc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935993686180:android:2dcb4dc63b409935724e31",
+        "android_client_info": {
+          "package_name": "com.example.noiseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935993686180-9p4i5tpt4b4khideod7rrr5qusfiujif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noiseapp",
+            "certificate_hash": "9c855e38b9833dc62f8560cff274ceb6531282e7"
+          }
+        },
+        {
+          "client_id": "935993686180-vdgg1ce35pvbfu40es7srv9meqdqg369.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuzSJWJvKPn8OgXRa4xXi10EM2K0p2rgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935993686180-vdgg1ce35pvbfu40es7srv9meqdqg369.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

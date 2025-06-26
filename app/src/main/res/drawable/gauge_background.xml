@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This shape defines the grey background track for our gauge -->
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="ring"
+    android:innerRadiusRatio="2.5"
+    android:thickness="15dp"
+    android:useLevel="false">
+    <solid android:color="#444444"/>
+</shape>
